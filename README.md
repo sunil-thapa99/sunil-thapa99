@@ -2,6 +2,8 @@
 <!--
 Here are some ideas to get you started:
 -->
+![Sunil Thapa](https://github.com/lappanchappan43/lappanchappan43/blob/main/logo.gif)
+
 - 🔭 I’m currently working on ... Computer Vision 
 - 🌱 I’m currently learning ... Medical Image Processing
 - 🤔 I’m looking for help with ... AI in medical Field
