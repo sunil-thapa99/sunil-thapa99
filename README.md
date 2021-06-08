@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 Projects @:
-https://sudoku-solver-cv.herokuapp.com/
+- https://sudoku-solver-cv.herokuapp.com/
