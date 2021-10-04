@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Projects @:
 - https://sudoku-solver-cv.herokuapp.com/
+- https://simple-data-vis.herokuapp.com/
