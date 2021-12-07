@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Projects @:
 - https://sudoku-solver-cv.herokuapp.com/
 - https://simple-data-vis.herokuapp.com/
+- https://share.streamlit.io/lappanchappan43/hair_segment_color/main/app.py
