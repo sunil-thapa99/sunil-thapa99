@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img src='https://github.com/lappanchappan43/lappanchappan43/blob/main/logo.gif' width=400, height=400 align='center'>
 ![Sunil Thapa](https://github.com/lappanchappan43/lappanchappan43/blob/main/logo.gif)
 
 - 🔭 I’m currently working on ... Computer Vision/Natural Language Processing
