@@ -9,9 +9,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src='https://github.com/lappanchappan43/lappanchappan43/blob/main/logo.gif' width=400, height=400 align='center'>
-![Sunil Thapa](https://github.com/lappanchappan43/lappanchappan43/blob/main/logo.gif)
-
 - 🔭 I’m currently working on ... Computer Vision/Natural Language Processing
 - 🤔 I’m looking for help with ... AI in medical Field
 - 💬 Ask me about ... Anything
@@ -26,9 +23,11 @@ Here are some ideas to get you started:
 - https://simple-data-vis.herokuapp.com/
 - https://share.streamlit.io/lappanchappan43/hair_segment_color/main/app.py
 
+<h3 align="left">Research Paper:</h3>
+- <a href='https://dx.doi.org/10.2139/ssrn.3949190'>Clothes Identification Using Inception ResNet V2 and MobileNet V2</a>
+- - <a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a>
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-thapa99&show_icons=true&locale=en&layout=compact" alt="sunilthapa" /></p>
 
