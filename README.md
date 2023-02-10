@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Research Paper:</h3>
 - <a href='https://dx.doi.org/10.2139/ssrn.3949190'>Clothes Identification Using Inception ResNet V2 and MobileNet V2</a>
-- - <a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a>
+- <a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
