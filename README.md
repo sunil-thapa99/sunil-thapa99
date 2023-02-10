@@ -8,24 +8,29 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunil-thapa99" alt="sunilthapa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on ... Computer Vision/Natural Language Processing
-- 🤔 I’m looking for help with ... AI in medical Field
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/sunil-thapa-940877134/)
-- 😄 Pronouns: ... He/Him
+<ul>
+  <li>🔭 I’m currently working on ... Computer Vision/Natural Language Processing</li>
+  <li>🤔 I’m looking for help with ... AI in medical Field</li>
+  <li>💬 Ask me about ... Anything</li>
+  <li>📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/sunil-thapa-940877134/)</li>
+  <li>😄 Pronouns: ... He/Him</li> 
+</ul>
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ... 
 -->
 <h3 align="left">Projects:</h3>
-- https://sudoku-solver-cv.herokuapp.com/
-- https://simple-data-vis.herokuapp.com/
-- https://share.streamlit.io/lappanchappan43/hair_segment_color/main/app.py
+<ul>
+  <li>https://sudoku-solver-cv.herokuapp.com/</li>
+  <li>https://simple-data-vis.herokuapp.com/</li>
+  <li>https://share.streamlit.io/lappanchappan43/hair_segment_color/main/app.py</li>
+</ul>
 
 <h3 align="left">Research Paper:</h3>
-- <a href='https://dx.doi.org/10.2139/ssrn.3949190'>Clothes Identification Using Inception ResNet V2 and MobileNet V2</a>
-- <a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a>
+<ul>
+  <li><a href='https://dx.doi.org/10.2139/ssrn.3949190'>Clothes Identification Using Inception ResNet V2 and MobileNet V2</a></li>
+  <li><a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 
