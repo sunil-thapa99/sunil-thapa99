@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   <li>🔭 I’m currently working on ... Computer Vision/Natural Language Processing</li>
   <li>🤔 I’m looking for help with ... AI in medical Field</li>
   <li>💬 Ask me about ... Anything</li>
-  <li>📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/sunil-thapa-940877134/)</li>
+  <li>📫 How to reach me: ... <a href="https://www.linkedin.com/in/sunil-thapa-940877134/" LinkedIn></li>
   <li>😄 Pronouns: ... He/Him</li> 
 </ul>
 <!-- 
