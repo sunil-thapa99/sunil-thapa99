@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="left">Projects:</h3>
 <ul>
+  <li>https://st-breast-cancer-app.streamlit.app/</li>
   <li>https://sudoku-solver-cv.herokuapp.com/</li>
   <li>https://simple-data-vis.herokuapp.com/</li>
   <li>https://share.streamlit.io/lappanchappan43/hair_segment_color/main/app.py</li>
