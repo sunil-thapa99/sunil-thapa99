@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <hr>
 <ul>
   <li>🔭 I’m currently working on ... Computer Vision/Natural Language Processing</li>
-  <li>🤔 I’m looking for help with ... AI in medical Field</li>
+  <li>🤔 I’m looking for help with ... Agentic Application</li>
   <li>💬 Ask me about ... Anything</li>
   <li>📫 How to reach me: ... <a href="https://www.linkedin.com/in/sunil-thapa-940877134/">LinkedIn</a></li>
   <li>😄 Pronouns: ... He/Him</li> 
@@ -21,22 +21,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 <hr>
-<h3 align="left">Projects:</h3>
-<ul>
-  <li>https://st-breast-cancer-app.streamlit.app/</li>
-  <li>https://sudoku-solver-cv.herokuapp.com/</li>
-  <li>https://simple-data-vis.herokuapp.com/</li>
-  <li>https://share.streamlit.io/lappanchappan43/hair_segment_color/main/app.py</li>
-</ul>
 
 <hr>
 <h3 align="left">Research Paper:</h3>
 <ul>
+  <li><a href='https://arxiv.org/abs/2506.16399'>NepaliGPT: A Generative Language Model for the Nepali Language</a></li>
+  <li><a href='https://ieeexplore.ieee.org/document/10290690'>NepaliBERT: Pre-training of Masked Language Model in Nepali Corpus</a></li>
   <li><a href='https://dx.doi.org/10.2139/ssrn.3949190'>Clothes Identification Using Inception ResNet V2 and MobileNet V2</a></li>
   <li><a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a></li>
 </ul>
 
 <hr>
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-thapa99&show_icons=true&locale=en&layout=compact" alt="sunilthapa" /></p>
