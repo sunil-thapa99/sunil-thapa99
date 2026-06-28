@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 </ul>
 
 <hr>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunil-thapa99)](https://git.io/streak-stats)
