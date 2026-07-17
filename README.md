@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <li><a href='https://dx.doi.org/10.2139/ssrn.3949190'>Clothes Identification Using Inception ResNet V2 and MobileNet V2</a></li>
   <li><a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a></li>
 </ul>
-
+ 
 <hr>
