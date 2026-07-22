@@ -13,7 +13,6 @@ Here are some ideas to get you started:
   <li>🔭 I’m currently working on ... Computer Vision/Natural Language Processing</li>
   <li>🤔 I’m looking for help with ... Agentic Application</li>
   <li>💬 Ask me about ... Anything</li>
-  <li>📫 How to reach me: ... <a href="https://www.linkedin.com/in/sunil-thapa-940877134/">LinkedIn</a></li>
   <li>😄 Pronouns: ... He/Him</li> 
 </ul>
 <!-- 
