@@ -4,18 +4,6 @@
 AI Engineer | ML Researcher
 </h3>
 
-<p align="center">
-<a href="https://sunil-thapa.netlify.app">
-Portfolio
-</a>
-•
-<a href="https://github.com/sunilGitHub
-</a>
-•
-<a href="https://www.linkedin.com/in/sunilnkedIn
-</a>
-</p>
-
 ---
 
 ## 🚀 About Me
