@@ -61,9 +61,13 @@ I'm an ML Engineer focused on building and researching language models, with a s
 </p>
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=sunil-thapa99&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=sunil-thapa99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0"/>
 
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sunil-thapa99&layout=compact&theme=tokyonight)
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-thapa99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sunil-thapa99&theme=tokyonight&hide_border=true"/>
