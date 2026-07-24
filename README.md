@@ -1,134 +1,43 @@
-<h1 align="center">Hi 👋, I'm Sunil Thapa</h1>
-
-<h3 align="center">
-AI Engineer | ML Researcher
-</h3>
-
----
-
-## 🚀 About Me
-
-- 💼 System Analyst & Developer at Louisiana State University Alexandria (LSUA)
-- 🤖 AI/ML Engineer focused on NLP and Large Language Models
-- 📚 Author of **NepaliGPT** and contributor to Nepali NLP research
-- 🧠 Interested in:
-  - Artificial Intelligence
-  - Machine Learning
-  - LLMs
-  - Data Engineering
-  - MLOps
-  - Software Engineering
-- 🌱 Currently exploring:
-  - AI Agents
-  - RAG Systems
-  - LLM Fine-Tuning
-  - Quantitative Trading Systems
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi there, I'm Sunil Thapa 👋</h1>
+<h3 align="center">ML Engineer passionate about NLP & Deep Learning</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats./api?username=sunil-thapa99&show_icons=true&theme=tokyonight
-
-<img ://streak-stats.demolab.com?user=sunil-thapa99&theme=tokyonight
-
-<img src="https://github-readme-stats.vercel.app/api/top-lname=sunil-thapa99&layout=compact&theme=tokyonight
-
+  <a href="https://sunil-thapa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://arxiv.org/abs/2506.16399"><img src="https://img.shields.io/badge/arXiv-NepaliGPT-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🚀 About Me
+I'm an ML Engineer focused on building and researching language models, with a special interest in low-resource languages like Nepali.
 
-<p align="center">
-https://github-profile-trophy.vercel.app/?username=sunil-thapa99&theme=tokyonight&column=7
+### 🧠 Research
+| Paper | Venue |
+|---|---|
+| [NepaliGPT: A Generative Language Model for the Nepali Language](https://arxiv.org/abs/2506.16399) | arXiv, 2025 |
+| [NepaliBERT: Pre-training of Masked Language Model in Nepali Corpus](https://ieeexplore.ieee.org/document/10290690) | IEEE |
+| [Clothes Identification Using Inception ResNet V2 and MobileNet V2](https://dx.doi.org/10.2139/ssrn.3949190) | SSRN |
+| [Adult Income Prediction Using various ML Algorithms](http://dx.doi.org/10.2139/ssrn.4325813) | SSRN |
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
-
-## 🔬 Research Publications
-
-### NepaliGPT
-A Generative Language Model for the Nepali Language
-
-📄 https://arxiv.org/abs/2506.16399
-
-### NepaliBERT
-Pre-training of Masked Language Model in Nepali Corpus
-
-📄 https://ieeexplore.ieee.org/document/10290690
-
-### Clothes Identification Using Deep Learning
-
-📄 https://dx.doi.org/10.2139/ssrn.3949190
-
-### Adult Income Prediction Using ML Algorithms
-
-📄 http://dx.doi.org/10.2139/ssrn.4325813
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-https://img.shields.io/badge/Python-blue?logo=python
-https://img.shields.io/badge/C%23-purple?logo=csharp
-https://img.shields.io/badge/SQL-orange
-
-### Machine Learning & AI
-
-https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow
-https://img.shields.io/badge/Keras-red?logo=keras
-![PyTorch](https://img.shields.io/badged?logo=pytorch
-![Scikit-Learn](httpso/badge/ScikitLearn-orange?logo=scikitlearn
-https://img.shields.io/badge/Pandas-blue?logo=pandas
-
-### Backend
-
-![Flask](https://img.shields.io/badge/Flask-black?logoDjango](https://img.shields.io/badge/Django-green?logo=django)
-![REST API](https://img.shields
-
-### Database
-
-![SQL Server](https://img.sh/SQL%20Server-red
-![MySQL](https://img.shields.io/badge/MySQL-blue?logoMongoDB](https://img.shields.io/badgeeen?logo=mongodb
-
-### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![GitHub Actions](https://.io/badge/GitHub%20Actions-black?logo=githubactions)
-shields.io/badge/AWS-orange?logoaws
-
----
-
-## 🚀 Featured Projects
-
-### NepaliGPT
-Large Language Model for Nepali Language Understanding and Generation.
-
-### AI Hedge Fund
-Multi-Agent Quantitative Trading Framework using LLMs.
-
-### LSUA Academic Analytics
-Data pipelines, reporting systems, Power BI integrations, and student success analytics.
-
-### Fraud Detection Platform
-Multi-signal fraud prevention system using:
-- Twilio Verify
-- IPQS
-- Email Risk Scoring
-- Address Validation
-- Device Fingerprinting
-
----
-
-## 📫 Connect With Me
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunil-thapa99&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-thapa99&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
-<a href="https://www.com/in/sunil-thapaLinkedIn</a> •
-<a href="https://sunil-thapa.netlify.app">Portfolio</a> •
-<a hrefail@example.comEmail</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-thapa99&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 🌐 Connect
+<p align="center">
+  <a href="https://sunil-thapa.netlify.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/sunil-thapa99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
