@@ -1,27 +1,146 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://sunil-thapa.netlify.app/" target="_blank">Sunil Thapa</a></h3>
-<h3 align="center">A passionate ML Engineer</h3>
-<p aligh='center'><img src="https://komarev.com/ghpvc/?username=sunil-thapa99&label=Profile%20views&color=0e75b6&style=flat" alt="sunilthapa" /></p>
-<!--
-Here are some ideas to get you started:
--->
+<h1 align="center">Hi 👋, I'm Sunil Thapa</h1>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<h3 align="center">
+AI Engineer | ML Researcher
+</h3>
 
-<hr>
-<!-- 
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ... 
--->
-<hr>
+<p align="center">
+<a href="https://sunil-thapa.netlify.app">
+Portfolio
+</a>
+•
+<a href="https://github.com/sunilGitHub
+</a>
+•
+<a href="https://www.linkedin.com/in/sunilnkedIn
+</a>
+</p>
 
-<hr>
-<h3 align="left">Research Paper:</h3>
-<ul>
-  <li><a href='https://arxiv.org/abs/2506.16399'>NepaliGPT: A Generative Language Model for the Nepali Language</a></li>
-  <li><a href='https://ieeexplore.ieee.org/document/10290690'>NepaliBERT: Pre-training of Masked Language Model in Nepali Corpus</a></li>
-  <li><a href='https://dx.doi.org/10.2139/ssrn.3949190'>Clothes Identification Using Inception ResNet V2 and MobileNet V2</a></li>
-  <li><a href='http://dx.doi.org/10.2139/ssrn.4325813'>Adult Income Prediction Using various ML Algorithms</a></li>
-</ul>
- 
-<hr>
+---
+
+## 🚀 About Me
+
+- 💼 System Analyst & Developer at Louisiana State University Alexandria (LSUA)
+- 🤖 AI/ML Engineer focused on NLP and Large Language Models
+- 📚 Author of **NepaliGPT** and contributor to Nepali NLP research
+- 🧠 Interested in:
+  - Artificial Intelligence
+  - Machine Learning
+  - LLMs
+  - Data Engineering
+  - MLOps
+  - Software Engineering
+- 🌱 Currently exploring:
+  - AI Agents
+  - RAG Systems
+  - LLM Fine-Tuning
+  - Quantitative Trading Systems
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats./api?username=sunil-thapa99&show_icons=true&theme=tokyonight
+
+<img ://streak-stats.demolab.com?user=sunil-thapa99&theme=tokyonight
+
+<img src="https://github-readme-stats.vercel.app/api/top-lname=sunil-thapa99&layout=compact&theme=tokyonight
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+https://github-profile-trophy.vercel.app/?username=sunil-thapa99&theme=tokyonight&column=7
+</p>
+
+---
+
+## 🔬 Research Publications
+
+### NepaliGPT
+A Generative Language Model for the Nepali Language
+
+📄 https://arxiv.org/abs/2506.16399
+
+### NepaliBERT
+Pre-training of Masked Language Model in Nepali Corpus
+
+📄 https://ieeexplore.ieee.org/document/10290690
+
+### Clothes Identification Using Deep Learning
+
+📄 https://dx.doi.org/10.2139/ssrn.3949190
+
+### Adult Income Prediction Using ML Algorithms
+
+📄 http://dx.doi.org/10.2139/ssrn.4325813
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+https://img.shields.io/badge/Python-blue?logo=python
+https://img.shields.io/badge/C%23-purple?logo=csharp
+https://img.shields.io/badge/SQL-orange
+
+### Machine Learning & AI
+
+https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow
+https://img.shields.io/badge/Keras-red?logo=keras
+![PyTorch](https://img.shields.io/badged?logo=pytorch
+![Scikit-Learn](httpso/badge/ScikitLearn-orange?logo=scikitlearn
+https://img.shields.io/badge/Pandas-blue?logo=pandas
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-black?logoDjango](https://img.shields.io/badge/Django-green?logo=django)
+![REST API](https://img.shields
+
+### Database
+
+![SQL Server](https://img.sh/SQL%20Server-red
+![MySQL](https://img.shields.io/badge/MySQL-blue?logoMongoDB](https://img.shields.io/badgeeen?logo=mongodb
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![GitHub Actions](https://.io/badge/GitHub%20Actions-black?logo=githubactions)
+shields.io/badge/AWS-orange?logoaws
+
+---
+
+## 🚀 Featured Projects
+
+### NepaliGPT
+Large Language Model for Nepali Language Understanding and Generation.
+
+### AI Hedge Fund
+Multi-Agent Quantitative Trading Framework using LLMs.
+
+### LSUA Academic Analytics
+Data pipelines, reporting systems, Power BI integrations, and student success analytics.
+
+### Fraud Detection Platform
+Multi-signal fraud prevention system using:
+- Twilio Verify
+- IPQS
+- Email Risk Scoring
+- Address Validation
+- Device Fingerprinting
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://www.com/in/sunil-thapaLinkedIn</a> •
+<a href="https://sunil-thapa.netlify.app">Portfolio</a> •
+<a hrefail@example.comEmail</a>
+</p>
