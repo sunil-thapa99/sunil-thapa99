@@ -116,10 +116,6 @@ src="https://github-readme-stats-one-bice.vercel.app/api?username=sunil-thapa99&
 <img height="165"
 src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sunil-thapa99&layout=compact&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=sunil-thapa99&theme=tokyonight"/>
 
 </p>
